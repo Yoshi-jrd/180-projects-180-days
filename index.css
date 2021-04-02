@@ -1,0 +1,46 @@
+/* style for 180 projects in however many days */
+
+*{
+   margin: 0; 
+   padding: 0;
+}
+
+.wrapper{
+    width: auto;
+    margin: 0 auto;
+}
+
+header{
+    height: 200px;
+    background-image: url(https://images.unsplash.com/photo-1483959651481-dc75b89291f1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=601&q=80);
+    background-position: 90% 39%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    width: 100%;
+    z-index: 12;
+    position: fixed;
+    text-align: center;
+}
+
+.content-area{
+    width: 100%;
+    position: relative;
+    top: 200px;
+    height: 1500px;
+    background: #fff;
+}
+
+.content{
+    height: 1500px;
+    padding: 0 2% 0 2%;
+}
+
+.list-header{
+    padding: 10px 0 20px 0;
+}
+.name{
+    text-align: left;
+    margin-bottom: 30px;
+}
+
