@@ -88,7 +88,7 @@ svg {
     top: 665px;
     bottom: 100px;
     background: #d9d8db;
-    height: 1500px;
+    height: 1600px;
     border-radius: 15px;
     border-color: #8d5fc3;
     border-style: double;
@@ -107,7 +107,7 @@ svg {
 #about p {
     margin: 0 auto;
     width: 90%;
-    color: #222b50;
+    color: #40285c;
     font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 25px;
@@ -127,13 +127,16 @@ ul {
 }
 #project-list li {
     font-size: 2em;
-    color: #222b50;
+    color: #40285c;
 }
 #project-list a{
     text-decoration: none;
     font-size: .8em;
-    color: #8d5fc3;
+    color: #40285c;
     text-shadow: #666666 0 0 3px;
+}
+.webpageCartoon {
+    margin-top: 40px;
 }
 footer {
     margin-top: 10vh;
